@@ -1,3 +1,6 @@
 this is to create a interface for u guys to get info about project.
 
 If the *north-south road is a highway* and will remain *green by default, with **traffic sensors* detecting vehicles on the *east-west road* to trigger a red light for the highway, the traffic signal system becomes more dynamic. Here’s how the design works:
+
+
+this only to check the working..
